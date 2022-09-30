@@ -16,4 +16,4 @@ module "docker_instance" {
     source = "<8mehmet11>/docker-instance/aws"
     key_name = "myvpc"
 }
-```
+```# terraform-aws-docker-instance
